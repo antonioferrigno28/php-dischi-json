@@ -2,7 +2,7 @@
 //leggere il file dei dischi e salva in variabile
 $json_text = file_get_contents("./dischi.json");
 
-//convertiamo la stringa da json a struttura dati php
+//convertiamo la stringa da json ad array associativo
 $dischi = json_decode($json_text, true); 
 
 //modifichiamo la struttura dati
