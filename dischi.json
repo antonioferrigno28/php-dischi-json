@@ -1,0 +1,44 @@
+[
+  {
+    "titolo": "Verano Zombie",
+    "artista": "Noyz Narcos",
+    "cover": "https://upload.wikimedia.org/wikipedia/it/3/3e/Verano_Zombie.jpg",
+    "anno": 2011,
+    "genere": "Hip Hop"
+  },
+  {
+    "titolo": "Slipknot",
+    "artista": "Slipknot",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/44/Slipknot_-_Slipknot2.jpg",
+    "anno": 1999,
+    "genere": "Nu Metal"
+  },
+  {
+    "titolo": "Toxicity",
+    "artista": "System of a Down",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/64/SystemofaDownToxicityalbumcover.jpg",
+    "anno": 2001,
+    "genere": "Alternative Metal"
+  },
+  {
+    "titolo": "All Eyez on Me",
+    "artista": "2Pac",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/16/Alleyezonme.jpg",
+    "anno": 1996,
+    "genere": "Hip Hop"
+  },
+  {
+    "titolo": "L'Ultimo a Morire",
+    "artista": "Speranza",
+    "cover": "https://www.ibs.it/images/8056746984601_0_0_536_0_75.jpg",
+    "anno": 2020,
+    "genere": "Hip Hop"
+  },
+  {
+    "titolo": "Nonostante Tutto",
+    "artista": "Gemitaiz",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02ec5976917a847da6dd598fec",
+    "anno": 2016,
+    "genere": "Hip Hop"
+  }
+]

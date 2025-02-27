@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(39, 37, 37);
+}
+
+img {
+  object-fit: cover;
+}
+
+.title {
+  color: rgb(5, 163, 0);
+  font-size: 60px;
+}
+
+.title-light {
+  color: rgb(245, 245, 245);
+  font-size: 60px;
+}
